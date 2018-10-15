@@ -1,5 +1,5 @@
 # reusefull
-http://reusefull.org/ is a website that connects people with stuff they no longer need with nonprofit organizations that could use it.
+https://reusefull.org/ is a website that connects people with stuff they no longer need with nonprofit organizations that could use it.
 
 Problem Statement
 
