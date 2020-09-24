@@ -14,22 +14,25 @@ Code for KC Slack Channel #ReUseFull
 
 Road Map
 
-* (in progress) site content--Leslie
-* Design site--Dave LaCrone
-* Create issues that can be followed to implement
-* Implement
+* Implement site--Version 1.0 launched
+* Create issues for enhancements
+* Design pages affected by enhancements
+* Update site
+* Promote site to organizations, schools and churches
 
 What we need
 
 * Front end designer for site design 
 
-* Drupal developer 
+* WordPress developers 
 
-* Nonprofit professionals who can test site and sign organizations up for beta version
+* Android app developer
+
+* Organizations, schools and churches to sign up
 
 * Charity-minded people who can test site from donor perspective
 
-* Marketing person to encourage use once site is live
+* Marketing person to promote site to donors and nonprofits
 
 How to help
 
